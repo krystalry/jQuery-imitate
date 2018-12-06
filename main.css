@@ -1,0 +1,20 @@
+p {
+    margin: 8px;
+    font-size: 16px;
+}
+
+.selected {
+    color: blue;
+}
+
+.highlight {
+    background: yellow;
+}
+
+.blue {
+    color: cornflowerblue;
+}
+
+.orange {
+    color: orange;
+}
